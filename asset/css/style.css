@@ -134,3 +134,23 @@ footer {
   text-align: center;
   color: #777;
 }
+
+.contenedor-imagenes {
+  display: flex;
+}
+
+.contenedor-imagenes img {
+  margin-right: 10px; 
+}
+
+.article_position{
+  width: auto;
+  margin-right: 11%;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
